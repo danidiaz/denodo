@@ -1,2 +1,2 @@
 # denodo
-Utilities to manage Denodo servers
+Utilities to manage Denodo servers.
