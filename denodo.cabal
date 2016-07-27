@@ -51,6 +51,7 @@ library
         , streaming             >= 0.1.4
         , conceit               >= 0.4.0.0
         , process-streaming     >= 0.9.1.2
+        , megaparsec            >= 5.0.1
     exposed-modules:
         Denodo
     ghc-options: -O2 -Wall
